@@ -2,5 +2,5 @@
 layout: category
 title: Code
 slug: code
-description: A category for code related posts.
+description: Categoría para code o programación.
 ---

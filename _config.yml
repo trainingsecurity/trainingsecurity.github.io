@@ -33,7 +33,7 @@ github_username: trainingsecurity
 #twitter_username: twitter_username
 #instagram_username: instagram_username
 #linkedin_username: linkedin_username
-medium_username: Security Training
+#medium_username: Security Training
 
 
 
@@ -41,7 +41,7 @@ medium_username: Security Training
 show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: false
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
