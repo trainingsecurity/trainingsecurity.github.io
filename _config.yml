@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Security Training
+title: Security Training | Pentesting & Ethical Hacking
+description: Comunidad dedicada a brindar orientación a personas en proceso de certificación y entuasiastas con conocimientos que tienen desdeos y ganas de superación
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - Security
+  - Training
+  - Pentesting
+  - CTFs
 show_hero: true
 menu:
   - title: Home
@@ -19,9 +18,9 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: cibersectraining@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: Security Training
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -29,26 +28,27 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: trainingsecurity
+#facebook_username: facebook_username
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+medium_username: Security Training
+
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://trainingsecurity.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "es"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
@@ -105,4 +105,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+version: v1.0
